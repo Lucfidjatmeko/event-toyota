@@ -116,7 +116,7 @@ export default function HomeEvent() {
 
   return (
     <div className="container mt-5">
-      <h1 className="text-center mb-4">Event Showcase</h1>
+      <h1 className="text-center mb-4">Event Toyota Asoy Geboy</h1>
 
       {/* Form Pencarian */}
       <form onSubmit={handleOnSubmit} className="d-flex justify-content-center mb-4">
